@@ -18,7 +18,7 @@ Préparer une machine virtuelle propre, à jour et prête à être utilisée pou
 
 J'ai lancé la machine virtuelle Ubuntu et ouvert une session utilisateur.
 
-![Ubuntu Login](../screenshots/01-vm-login-screen.png)
+![Ubuntu Login](https://github.com/MelTechJourney/linux-lab/blob/main/screenshots/01-vm-login-screen.png)
 
 ![Ubuntu Desktop](../screenshots/02-ubuntu-desktop.png)
 
