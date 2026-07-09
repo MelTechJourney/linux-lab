@@ -20,7 +20,7 @@ J'ai lancé la machine virtuelle Ubuntu et ouvert une session utilisateur.
 
 ![Ubuntu Login](https://github.com/MelTechJourney/linux-lab/blob/main/screenshots/01-vm-login-screen.png)
 
-![Ubuntu Desktop](../screenshots/02-ubuntu-desktop.png)
+![Ubuntu Desktop](https://github.com/MelTechJourney/linux-lab/blob/main/screenshots/02-ubuntu-desktop.png)
 
 ---
 
@@ -34,7 +34,7 @@ sudo apt update
 
 Cette commande permet de récupérer la liste des dernières versions disponibles des paquets présents dans les dépôts configurés.
 
-![APT Update](../screenshots/03-apt-update.png)
+![APT Update](https://github.com/MelTechJourney/linux-lab/blob/main/screenshots/03-apt-update.png)
 
 ---
 
@@ -48,7 +48,7 @@ sudo apt upgrade
 
 Cette étape installe les mises à jour disponibles pour les logiciels déjà présents sur le système.
 
-![APT Upgrade](../screenshots/04-apt-upgrade.png)
+![APT Upgrade](https://github.com/MelTechJourney/linux-lab/blob/main/screenshots/04-apt-upgrade.png)
 
 ---
 
@@ -62,7 +62,7 @@ sudo apt autoremove
 
 Cette commande supprime les paquets devenus inutiles après les mises à jour.
 
-![APT Autoremove](../screenshots/05-apt-autoremove.png)
+![APT Autoremove](https://github.com/MelTechJourney/linux-lab/blob/main/screenshots/05-apt-autoremove.png)
 
 ---
 
@@ -70,7 +70,7 @@ Cette commande supprime les paquets devenus inutiles après les mises à jour.
 
 J'ai vérifié la langue actuellement utilisée par le système et commencé la configuration de l'environnement en français.
 
-![Language Configuration](../screenshots/06-language-configuration.png)
+![Language Configuration](https://github.com/MelTechJourney/linux-lab/blob/main/screenshots/06-language-configuration.png)
 
 ---
 
@@ -84,7 +84,7 @@ neofetch
 
 Cette commande affiche un résumé des principales informations concernant le système (version d'Ubuntu, noyau Linux, processeur, mémoire, environnement graphique, etc.).
 
-![Neofetch](../screenshots/07-neofetch-system-information.png)
+![Neofetch](https://github.com/MelTechJourney/linux-lab/blob/main/screenshots/07-neofetch-system-information.png)
 
 ---
 
